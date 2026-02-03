@@ -8,9 +8,9 @@ Documenting my journey along the programming path.
 ## 🍁 Snapshot
 
 - 🎓 Studying computer science fundamentals in BCA
-- 🌱 Working with **C++**, **HTML**, **CSS**, and **JavaScript**
-- 💫 Focused on mastering basics before frameworks
-- 🌿 Learn by building, breaking, and improving
+- 🎓 Working with **C++**, **HTML**, **CSS**, and **JavaScript**
+- 🎓 Focused on mastering basics before frameworks
+- 🎓 Learn by building, breaking, and improving
 
 ---
 
