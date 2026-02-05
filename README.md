@@ -19,7 +19,7 @@ Documenting my journey along the programming path.
 - 🕊️ Strengthening **C++ fundamentals & problem‑solving**
 - 🕊️ Improving **JavaScript logic & DOM manipulation**
 - 🕊️ Writing clean, responsive **HTML/CSS**
-- 🕊️ Building a disciplined coding habit
+- 🕊️ Building a disciplined coding habit.
 
 ---
 
