@@ -42,7 +42,7 @@ Documenting my journey along the programming path.
 ## 🍁 Learning Goals
 
 - 🌱 Build confidence in **JavaScript fundamentals**
-- 🌱Improve **DSA using C++**
+- 🌱 Improve **DSA using C++**
 - 🌱 Write cleaner, maintainable code
 - 🌱 Stay consistent on GitHub
 
